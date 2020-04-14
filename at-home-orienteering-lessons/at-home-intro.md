@@ -15,10 +15,6 @@ In the spring of 2020, schools were closed in response to the covid-19 virus pan
 | [Clue Sheet Orienteering](at-home-3-clue-sheet-orienteering.md) | Visit the objects in the sequence shown on your clue sheet |
 | [Make a Map](at-home-4-make-a-map.md) | Draw a map and mark the object locations |
 | [Indoor Courses](at-home-5-indoor-courses.md) | Keep your map oriented while you run a course |
-| [Street-O Maps]() | Intersection corners, map orientation and route choice; filling out the answer sheet \(under construction\) |
-| [Neighborhood Course\*]() | Orienteer in your neighborhood \(under construction\) |
-| [Orienteering Maps]() | Features, symbols and spatial relationships \(under construction\) |
-| [Orienteering Course\*]() | Orienteer on an orienteering map \(under construction\) |
 
 Each lesson includes sections on learning goals, safety and reflection. Most of the lessons can be done indoors. The lessons with an asterisk \(\*\) involve going outside in your neighborhood, and have alternative activities if going outside is not an option.
 
