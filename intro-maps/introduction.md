@@ -1,5 +1,7 @@
 # Introduction: Elementary School O Lessons
 
+_If you are looking for the at-home orienteering lessons, suitable for use during the pandemic, please start_ [_here_](../at-home-orienteering-lessons/at-home-intro.md)_._
+
 Orienteering is a running and navigation sport in which competitors travel through terrain to visit checkpoints marked on a map. Orienteering is great for kids because it develops their physical abilities \(speed, agility\), mental abilities \(map navigation, critical thinking\), and provides an opportunity for outdoor play. Our lesson plans also emphasize teamwork, roles \(and responsibilities\), helping each other learn, safety, and obtaining consent. Please see the section “About these lessons” for more background on our approach. 
 
 These lesson plans were prepared for Cambridge Public School PE teachers in March, 2019. We will pilot the lessons in the spring of 2019 and update them, with a goal of publication in the summer of 2019. This work is a collaboration between Cambridge Public Schools and Navigation Games, a Cambridge MA 501\(c\)\(3\) non-profit dedicated to bringing orienteering to children.

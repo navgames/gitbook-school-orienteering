@@ -10,10 +10,6 @@
 * [3: Clue Sheet Orienteering](at-home-orienteering-lessons/at-home-3-clue-sheet-orienteering.md)
 * [4: Make a Map](at-home-orienteering-lessons/at-home-4-make-a-map.md)
 * [5: Indoor Courses](at-home-orienteering-lessons/at-home-5-indoor-courses.md)
-* [6: Street-O Maps](at-home-orienteering-lessons/at-home-6-street-o-maps.md)
-* [7: Neighborhood Course](at-home-orienteering-lessons/at-home-7-neighborhood-course.md)
-* [8: Orienteering Maps](at-home-orienteering-lessons/at-home-8-orienteering-maps.md)
-* [9: Orienteering Course](at-home-orienteering-lessons/at-home-9-orienteering-course.md)
 * [List of Games](at-home-orienteering-lessons/list-of-games.md)
 
 ## Introduction to Maps <a id="intro-maps"></a>
