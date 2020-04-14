@@ -6,7 +6,7 @@ description: >-
 
 # Introduction: At-Home Orienteering
 
-In the spring of 2020, schools were closed in response to the covid-19 virus pandemic. For kids, parents and teachers, Navigation Games prepared these progressive lessons that can be done at home. The lessons focus on exploring a space looking for objects, spatial memory, representing objects and spaces with written maps, orienting maps, and using maps to find objects. Along the way we talk about scale, legends \(keys\), route choice, and what it feels like to build up a mental map of a space. 
+In the spring of 2020, schools were closed in response to the covid-19 virus pandemic. For kids, parents and teachers, Navigation Games prepared these progressive games that can be done at home. The games focus on exploring a space looking for objects, spatial memory, representing objects and spaces with written maps, orienting maps, and using maps to find objects. Along the way we talk about scale, legends \(keys\), route choice, and what it feels like to build up a mental map of a space. 
 
 | Lesson | Description |
 | :--- | :--- |
@@ -14,9 +14,9 @@ In the spring of 2020, schools were closed in response to the covid-19 virus pan
 | [Features and Symbols](at-home-1.md) | Use symbols to represent objects |
 | [Clue Sheet Orienteering](at-home-3-clue-sheet-orienteering.md) | Visit the objects in the sequence shown on your clue sheet |
 | [Make a Map](at-home-4-make-a-map.md) | Draw a map and mark the object locations |
-| [Indoor Courses](at-home-5-indoor-courses.md) | Keep your map oriented while you run a course |
+| [Indoor Courses](at-home-5-indoor-courses.md) | Keep your map oriented while you do a course |
 
-Each lesson includes sections on learning goals, safety and reflection. Most of the lessons can be done indoors. The lessons with an asterisk \(\*\) involve going outside in your neighborhood, and have alternative activities if going outside is not an option.
+Each lesson includes sections on learning goals, safety and reflection. 
 
-These lessons are under active development. Our programming and business has taken a severe hit due to covid-19; if you enjoy these lessons, please consider making a [donation to Navigation Games](https://donorbox.org/donate-to-navigation-games). We are a 501\(c\)\(3\) non-profit. Also, please send us an email \([admin@navigationgames.org](mailto:admin@navigationgames.org)\) with your feedback!
+These games are under active development. Our programming and business has taken a severe hit due to covid-19; if you enjoy these lessons, please consider making a [donation to Navigation Games](https://donorbox.org/donate-to-navigation-games). We are a 501\(c\)\(3\) non-profit. Also, please send us an email \([admin@navigationgames.org](mailto:admin@navigationgames.org)\) with your feedback!
 
