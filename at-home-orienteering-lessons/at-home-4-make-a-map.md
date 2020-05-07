@@ -4,6 +4,8 @@ description: Draw a map and mark the object locations
 
 # 4: Make a Map
 
+Click here
+
 ### Learning Goals
 
 * Vocabulary 
