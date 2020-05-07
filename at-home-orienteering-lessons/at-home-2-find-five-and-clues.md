@@ -4,7 +4,7 @@ description: Hide and find objects
 
 # 1: Find Five and Clues
 
-[Click here for the comic strip slide show](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe_69fhR2oOAE3xgFYCCRkHG_zBMooFgFRW416Da4RTRAM_17r6u2RjSfuMAXtcl5X_6V/pub?start=true&loop=false&delayms=5000)
+[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe_69fhR2oOAE3xgFYCCRkHG_zBMooFgFRW416Da4RTRAM_17r6u2RjSfuMAXtcl5X_6V/pub?start=true&loop=false&delayms=5000&slide=id.p1)
 
 ![How to play &quot;Find Five&quot; and &quot;Clues&quot;](../.gitbook/assets/find-and-hide-highres-2.png)
 

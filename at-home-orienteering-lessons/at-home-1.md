@@ -4,9 +4,7 @@ description: Use symbols to represent objects
 
 # 2: Features and Symbols
 
-### **Comic Strip**
-
-\*\*\*\*[**Click here to see the comic strip as a slide show!**](https://docs.google.com/presentation/d/e/2PACX-1vTdj0BrOX8jyGrx1-3wFIkVTuPdjMQ1jFja-T_9cwmFFsraFYQyOGbE_lP3krdGhA/pub?start=false&loop=false&delayms=10000)\*\*\*\*
+[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vTdj0BrOX8jyGrx1-3wFIkVTuPdjMQ1jFja-T_9cwmFFsraFYQyOGbE_lP3krdGhA/pub?start=false&loop=false&delayms=10000)
 
 ![How to play &quot;Feature Tag&quot; and &quot;Tabletop-O&quot;](../.gitbook/assets/lesson-2-features-and-symbols-highres-1.png)
 
