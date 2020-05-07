@@ -4,6 +4,10 @@ description: Keep your map oriented while you run a course
 
 # 5: Indoor Courses
 
+[Click here to see the comic strip as a slide show](https://docs.google.com/presentation/d/e/2PACX-1vTn6C3J-dCwibEtSeZrKcGcIG6Ui_6w1LmjptZ8uq52iU6kqHipxmobQ88tlRHXKlwLaay5yVBFIF5m/pub?start=false&loop=false&delayms=10000)
+
+![Indoor courses](../.gitbook/assets/lesson-5-indoor-courses-highres-1.png)
+
 ### Learning Goals
 
 * Orientation
