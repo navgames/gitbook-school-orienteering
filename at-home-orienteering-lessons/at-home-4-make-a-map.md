@@ -6,7 +6,7 @@ description: Draw a map and mark the object locations
 
 ### Learning Goals
 
-* Vocabulary
+* Vocabulary 
   * **Orientation \(Orient\)**: Rotating the map until it is aligned \(matched up\) with the space
   * **Scale**: The size of something on a map compared to real life
 
