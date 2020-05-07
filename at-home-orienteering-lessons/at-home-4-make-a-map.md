@@ -4,7 +4,9 @@ description: Draw a map and mark the object locations
 
 # 4: Make a Map
 
-Click here
+[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQEqGBoSF-sAH8hKZMkuwt9KO7IzVAiBWHzprQMySm-LGwJ9ZHrir4Eo5kBa2xylg/pub?start=false&loop=false&delayms=3000)
+
+![](../.gitbook/assets/lesson-4-make-a-map-highres-2.png)
 
 ### Learning Goals
 
