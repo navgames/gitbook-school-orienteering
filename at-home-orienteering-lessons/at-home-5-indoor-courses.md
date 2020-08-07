@@ -8,8 +8,6 @@ description: Keep your map oriented while you run a course
 
 ![](../.gitbook/assets/lesson-5-indoor-courses-highres-1-.png)
 
-![](../.gitbook/assets/lesson-5--indoor-courses-highres%20%281%29.png)
-
 ### Introduction
 
 "Today we will use maps with **start triangles** and checkpoints to orienteer. We will also use obstacles to find the best **route** for each **course**."
