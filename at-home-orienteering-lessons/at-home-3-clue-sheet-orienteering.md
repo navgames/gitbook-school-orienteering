@@ -6,7 +6,7 @@ description: Visit the objects in the sequence shown on your clue sheet
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vRGqAXpYEl5zJTf-AdlMN41Xj8TmhBFZNFuua8ggYhrg-39EgZaqQZoRyhDlxP17w/pub?start=false&loop=false&delayms=3000)
 
-![](../.gitbook/assets/lesson-3-clue-sheet-orienteering-highres-2.png)
+![](../.gitbook/assets/lesson-3-clue-sheet-orienteering-highres-3-.png)
 
 ### **Learning Goals**
 

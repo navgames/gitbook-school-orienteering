@@ -33,5 +33,8 @@
 * [Lesson 7: Tabletop-O](15-lessons-for-k-5/lesson-7-tabletop-o/README.md)
   * [Test subchapter 7.1](15-lessons-for-k-5/lesson-7-tabletop-o/untitled-6.md)
   * [Test subchapter 7.2](15-lessons-for-k-5/lesson-7-tabletop-o/untitled-5.md)
+
+---
+
 * [References](references.md)
 

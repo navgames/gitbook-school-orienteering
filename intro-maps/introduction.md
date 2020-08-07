@@ -109,5 +109,7 @@ Note that Lessons 1 and 4 can all be adapted for use indoors, and there is an in
       </td>
     </tr>
   </tbody>
-</table>##  
+</table>
+
+##  
 
