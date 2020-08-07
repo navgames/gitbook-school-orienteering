@@ -6,53 +6,51 @@ description: Draw a map and mark the object locations
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQEqGBoSF-sAH8hKZMkuwt9KO7IzVAiBWHzprQMySm-LGwJ9ZHrir4Eo5kBa2xylg/pub?start=false&loop=false&delayms=3000)
 
-![](../.gitbook/assets/lesson-4-make-a-map-highres-3-.png)
+![](../.gitbook/assets/lesson-4-make-a-map-highres-3-%20%281%29.png)
+
+### Introduction
+
+"Today we will draw a map of the space, learn how to keep it **oriented**, and use it to find hidden objects."
 
 ### Learning Goals
 
 * Vocabulary 
-  * **Orientation \(Orient\)**: Rotating the map until it is aligned \(matched up\) with the space
+  * **Orientation \(Orient\)**: \(In orienteering\) Rotating the map until it matches the space
   * **Scale**: The size of something on a map compared to real life
 
 ### **Materials**
 
-* 5 Objects, around the size of a stuffed animal
+* 5 Objects: These should be easy to see, approximately the size of a stuffed animal or larger.
 * Paper
-* Pencil with eraser
-* Pen
+* Pencil & Eraser
 
 ### Safety
 
-Be agile when moving around the space, and don't hurt yourself or bump into anything.
+Pay attention when moving through the space so you don't hurt yourself or break anything.
 
 ### Activity
 
-#### Set Up: Draw a Map
+* **Set Up: Draw a Map**
 
-Sketch a map of your space in pencil. If you are indoors, this could be a single room. Draw the map as though you are looking down from the ceiling.
+  * Sketch a map of your space in pencil as though you are looking down from the ceiling. Start with an outline of the space and then add objects from largest to smallest. Keep the map simple by leaving out smaller items such as lamps, vases, etc. You can add more details later if you want. You may add labels to objects if it helps.
+  * Pay attention to **scale** when drawing the map. For example, if there is a couch in the room that goes halfway along a wall, then draw it on the map so that it takes up the same amount of space.
+  * Consider tracing over your map with a pen, as you will be drawing and erasing circles for some of the games.
 
-Start with an outline of the boundary. For example, most rooms are rectangular. Once the outline is drawn, look around for the largest objects in the space \(tables, couches, doors, etc.\). Assign a symbol to each object, then place it on the map. Pay attention to the scale of the objects. For example, if there is a couch in the room that goes halfway along a wall, then draw it on the map so that it takes up the same amount of space.
+* Game 1: **Orienting the Map**
 
-After finishing the map in pencil, draw over it in pen.
+  * Walk around the space, while keeping your map **oriented**. This means that the map should always be facing the same direction no matter which way your body is facing. Remember to rotate your body around the map as you move so that it stays matched up.
+  * At random moments, throw the map in the air and let it fall to the ground. Pick up the map, and **orient** it to the space before continuing to move.
 
-#### Game 1: Orienting the Map
-
-1. Walk around the space, and stop in different places. Each time you stop, rotate the map so that it matches up with where objects are in real life. Do this for several places within your space. This is called "orienting the map".
-2. Stand in the middle of the space, facing one of the walls. Orient your map to the space, then turn to face a different wall. Orient your map again, and repeat for each wall in the space.
-
-#### Game 2: Map Find Five
-
-1. Place the five objects around the space. Draw a circle with your pencil on the map at each of the five places where you put an object.
-2. Pass the map to someone else, and have them collect the objects. Each time they find an object, they draw a line in pencil through the circle. 
-3. Erase the circles and lines. Switch roles, so the person finding the objects is now placing them and marking them on the map for the other person to find.
+* Game 2: **Map Find Five**
+  * Place the five objects around the space, and draw a circle on the map for each object. 
+  * Pass the map to someone else, and ask them to collect the objects by using the map.
+  * Switch roles and play again. Make sure the person finding the objects does not look when they are being hidden.
 
 ### Reflection
 
-What was challenging about drawing the map? Were some objects harder to include than others?
-
-How could you tell if the map was oriented to the space?
-
-Was the other person able to effectively use your map? What parts of your map were confusing to them, and what parts were clear?
+1. What was challenging about drawing the map? Were some objects harder to include than others?
+2. How could you tell if the map was oriented to the space?
+3. Was the other person able to effectively use your map? What parts of your map were confusing to them, and what parts were clear?
 
 ### Do More
 
