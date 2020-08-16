@@ -2,7 +2,7 @@
 description: Use symbols to represent objects
 ---
 
-# 3: Features and Symbols
+# 2: Features and Symbols
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vRGqAXpYEl5zJTf-AdlMN41Xj8TmhBFZNFuua8ggYhrg-39EgZaqQZoRyhDlxP17w/pub?start=false&loop=false&delayms=3000)
 
@@ -41,7 +41,7 @@ Pay attention when moving through the space so you don't hurt yourself or break 
 ### **Games**
 
 * **Set up**
-  * Before playing these games, you must first create **symbols** for each of your objects. Indicate which symbol matches each object. This list of symbols is your **key**.
+  * Before playing these games, you must first create a **symbol** for each of your objects. Indicate which symbol matches each object. This list of symbols is your **key**.
   * The **symbols** we are using are shown below. ****You may use these **symbols** if you like, or create your own.
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M-q3x9QtfyfdkyRVBmt%2F-M4Lp05mjemjfWGVIIpf%2F-M4LwsIc7GRjfxSviecl%2Fimage.png?alt=media&token=d4aa5bc7-048d-4da0-a848-c83496a2fed2)

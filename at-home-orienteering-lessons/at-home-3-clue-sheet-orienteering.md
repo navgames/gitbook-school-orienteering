@@ -2,7 +2,7 @@
 description: Visit the objects in the sequence shown on your clue sheet
 ---
 
-# 2: Clue Sheet Orienteering
+# 3: Clue Sheet Orienteering
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vSg2J6F1fb_mSv351Nf_XgLt_oPwuyEVGxCbGUVosA7SWHfovAdnlBZkgzRgpMkEA/pub?start=false&loop=false&delayms=3000)
 
@@ -35,6 +35,10 @@ description: Visit the objects in the sequence shown on your clue sheet
 Do not run with scissors. Remember when passing scissors to others to hold them with the sharp ends pointing toward yourself, not the other person.
 
 Pay attention when moving through the space so you don't hurt yourself or break anything.
+
+What are the rules for moving around in your space? Are you allowed to run? If not, then walk!
+
+Be careful to avoid objects and obstacles in the space. Agility is the ability to move quickly and easily, especially in a place where footing is uneven or there are obstacles. Be agile! Be nimble!
 
 ### Activity
 
