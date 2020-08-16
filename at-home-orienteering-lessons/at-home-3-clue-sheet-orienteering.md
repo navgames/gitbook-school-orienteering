@@ -17,6 +17,8 @@ description: Visit the objects in the sequence shown on your clue sheet
 * Following a sequence
 * Spatial Memory
 * Vocabulary
+  * **Route**: the path you take to get to all the objects
+  * **Course**: a set of objects to visit in order, along with a start and finish location
   * **Clue sheet**: a list of symbols telling you which objects to visit, and in what order
   * **Checkpoint**: A landmark or significant location in the space
 

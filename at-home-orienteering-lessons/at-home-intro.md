@@ -6,7 +6,7 @@ description: >-
 
 # Introduction: At-Home Orienteering
 
-These progressive games for kids, parents, and teachers can be done at home or at school. The games focus on exploring, spatial memory, and understanding maps.
+
 
 | Lesson | Description |
 | :--- | :--- |

@@ -10,11 +10,15 @@ description: Hide and find objects
 
 [To view the comic strip as a slideshow, click here!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe_69fhR2oOAE3xgFYCCRkHG_zBMooFgFRW416Da4RTRAM_17r6u2RjSfuMAXtcl5X_6V/pub?start=true&loop=false&delayms=5000)
 
+###  **Introduction** <a id="introduction"></a>
+
+"Today we will play with a partner to find hidden objects using clues."
+
 ### **Learning Goals**
 
 * Paying attention to surroundings
-* Spatial Memory
-* Spatial Vocabulary
+* Spatial memory
+* Spatial vocabulary
   * **Closer/Farther**
   * **Left/Right**
   * **Above/Below**
