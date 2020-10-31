@@ -19,6 +19,7 @@ description: Visit the objects in the sequence shown on your clue sheet
 * Vocabulary
   * **Route**: the path you take to get to all the objects
   * **Course**: a set of objects to visit in order, along with a start and finish location
+  * **Symbol**: an abstract shape or character that represents a type of feature
   * **Clue sheet**: a list of symbols telling you which objects to visit, and in what order
   * **Checkpoint**: A landmark or significant location in the space
 
@@ -44,8 +45,8 @@ Be careful to avoid objects and obstacles in the space. Agility is the ability t
 
 * **Set Up**
   * Identify 5 unique objects in the space. These can be anything from a table or TV to a stuffed animal or plate of cookies. These objects will be your **checkpoints**.
-  * Write down the name or sketch an image of each **checkpoint** into multiple columns on a sheet of paper. Each column should include 1 of each **checkpoint**, although the order of **checkpoints** should be different for each one.
-  * Cut each column into individual strips of paper. These are your **clue sheets**.
+  * Choose a **symbol** to represent each object. Example symbols are shown on the clue sheets below. Write down the object that each symbol represents.
+  * Create **clue sheets**. Cut a piece of paper into strips. Draw symbols in different orders on each strip. Each strip should include 1 of each **symbol**, although the order should be different for each one.
   * _Here are some example clue sheets_:
 
 ![Six clue sheets, with five objects each](../.gitbook/assets/image%20%282%29.png)
@@ -53,6 +54,7 @@ Be careful to avoid objects and obstacles in the space. Agility is the ability t
 * Game 1: **Clue Sheet Orienteering**
   * For each **clue sheet**, the objective is to visit the checkpoints in the order they appear on the sheet. Record your time for each course.
   * Once you're completed all courses, run them again and see if your time improves.
+  * Try running a course from memory.
 
 ### Reflection
 
