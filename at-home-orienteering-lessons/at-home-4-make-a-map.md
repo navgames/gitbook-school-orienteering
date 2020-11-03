@@ -23,6 +23,7 @@ description: Draw a map and mark the object locations
 * 5 Objects: These should be easy to see, approximately the size of a stuffed animal or larger.
 * Paper
 * Pencil & Eraser
+* Pen
 
 ### Safety
 
@@ -34,7 +35,7 @@ Pay attention when moving through the space so you don't hurt yourself or break 
 
   * Sketch a map of your space in pencil as though you are looking down from the ceiling. Start with an outline of the space and then add objects from largest to smallest. Keep the map simple by leaving out smaller items such as lamps, vases, etc. You can add more details later if you want. You may add labels to objects if it helps.
   * Pay attention to **scale** when drawing the map. For example, if there is a couch in the room that goes halfway along a wall, then draw it on the map so that it takes up the same amount of space.
-  * Consider tracing over your map with a pen, as you will be drawing and erasing circles for some of the games.
+  * Trace over your map with a pen, as you will be drawing and erasing circles for some of the games.
 
 * Game 1: **Orienting the Map**
 

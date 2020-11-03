@@ -2,7 +2,7 @@
 description: Keep your map oriented while you run a course
 ---
 
-# 5: Indoor Courses
+# 5: Courses on a Map
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vTn6C3J-dCwibEtSeZrKcGcIG6Ui_6w1LmjptZ8uq52iU6kqHipxmobQ88tlRHXKlwLaay5yVBFIF5m/pub?start=false&loop=false&delayms=10000&slide=id.p1)
 
@@ -10,7 +10,7 @@ description: Keep your map oriented while you run a course
 
 ### Introduction
 
-"Today we will use maps with **start triangles** and checkpoints to orienteer. We will also use obstacles to find the best **route** for each **course**."
+"Today we will use maps with **start triangles** and checkpoints to orienteer. We will also use obstacles to create **route choice** for each **course**."
 
 ### Learning Goals
 
@@ -19,6 +19,7 @@ description: Keep your map oriented while you run a course
 * Identify alternate routes between controls; choose routes that work best
 * Vocabulary
   * **Route**: the path you take to get to all the objects
+  * **Route choice**: identifying multiple routes to a control, and selecting one that will be fast
   * **Course**: a set of objects to visit in order, along with a start and finish location
   * **Start Triangle**: A triangle drawn on the map to show the location of the Start
 
