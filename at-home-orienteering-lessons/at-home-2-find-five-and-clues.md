@@ -30,8 +30,8 @@ description: Hide and find objects
 
 ### Materials
 
-* 5 Objects: These may be as large as stuffed animals, as small as coins, or any combination. \(You should be able to carry all five objects at once, to make hiding them easier.\)
-* A Partner
+* Five objects for hiding: These may be as large as stuffed animals, as small as coins, or any combination. \(You should be able to carry all five objects at once, to make hiding them easier.\)
+* A partner
 
 ### Safety
 
