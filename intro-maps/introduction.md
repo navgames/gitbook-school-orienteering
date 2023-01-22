@@ -8,6 +8,8 @@ These lesson plans were prepared for Cambridge Public School PE teachers in Marc
 
 Note that Lessons 1 and 4 can all be adapted for use indoors, and there is an indoor alternative to Lesson 4.
 
+Update January 2023: we are in the process of updating these lessons.
+
 ## Summary Table
 
 | **Lesson**                               | **Set Up**                                                                                     | **Materials**                                                                                                                                       | **Activities**                                                                                                                                                                   |
