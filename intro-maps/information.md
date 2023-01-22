@@ -4,11 +4,11 @@
 
 ## Safety
 
-In orienteering, participants travel outside over an area that eventually includes locations that are outside the view of the teacher. It’s important that children know and can recognize the boundary of the area in which the games are played, so that the notion of boundaries and safe movement becomes ingrained as the area increases over sessions and years. 
+In orienteering, participants travel outside over an area that eventually includes locations that are outside the view of the teacher. It’s important that children know and can recognize the boundary of the area in which the games are played, so that the notion of boundaries and safe movement becomes ingrained as the area increases over sessions and years.&#x20;
 
 Students must also be able to return to the teacher on a signal in order to keep track of everyone, make sure no one is lost or hurt, and to provide necessary instruction and information.
 
-Treating each other with respect and care is important as well. Some students will excel while others may struggle, and it’s important for students on either end of the spectrum to work together for success. 
+Treating each other with respect and care is important as well. Some students will excel while others may struggle, and it’s important for students on either end of the spectrum to work together for success.&#x20;
 
 Students need also be aware of the environment around them to avoid physically running into objects such as trees and rocks, as well as one another.
 
@@ -33,7 +33,7 @@ By using and naming roles, the activities keep children busy and engaged even wh
   * Synonyms: Teacher, Coach, Instructor
   * The Helper gets consent before helping a Finder. The Finder may refuse help in order  to accomplish the task on their own.
   * The Helper does not do the task for the Finder, but rather helps the Finder learn and succeed. Give the Helper specific rules about what they can and can not say. For example, you may restrict them to “warmer/colder”. Or to asking questions such as “Where are you on the map?” “Is your map oriented?” “What do you see around you that matches the map?” “Where on the map are you going?” “Which way is that in real life?”
-  * Children are often better than the teacher at figuring out how to explain things to a struggling classmate. 
+  * Children are often better than the teacher at figuring out how to explain things to a struggling classmate.&#x20;
 * Spectator
   * Synonyms: Official, Timer, Counter, Cheerer, Supporter
   * When children complete their activity while others are still on their course, you may give them the option of helping or spectating. Spectating encourages paying attention to others.
@@ -42,14 +42,14 @@ In a team orienteering game, members of the team may have various roles relating
 
 ## Maps tell you how to find things
 
-Maps are a way for one person to tell another person how to find things. Some children will be able to understand maps easily, but others will struggle with map interpretation. Therefore, we start with other ways of communicating location and direction, before introducing the map.   
+Maps are a way for one person to tell another person how to find things. Some children will be able to understand maps easily, but others will struggle with map interpretation. Therefore, we start with other ways of communicating location and direction, before introducing the map. \
 
 
-To emphasize efficient communication of how to find things, instead of timing the activity, try counting the number of instructions that the Helper gives, and reducing those. \(A Spectator can do the counting!\) 
+To emphasize efficient communication of how to find things, instead of timing the activity, try counting the number of instructions that the Helper gives, and reducing those. (A Spectator can do the counting!)&#x20;
 
 ## Timing individuals
 
-There is a timing component built in to some of these lessons, and orienteering is normally a timed sport \(similar to cross country running, cycling, skiing, speed skating, etc.\). Timing students as they participate is an excellent way to encourage them to develop their speed, improve their skills, and even practice their memory. It can also provide competition for students who are interested.
+There is a timing component built in to some of these lessons, and orienteering is normally a timed sport (similar to cross country running, cycling, skiing, speed skating, etc.). Timing students as they participate is an excellent way to encourage them to develop their speed, improve their skills, and even practice their memory. It can also provide competition for students who are interested.
 
 It is important to remember, however, that not all students feel comfortable being timed, especially when this is a new activity they are still learning. Even when timing is used, it’s important to emphasize accuracy in orienteering as opposed to raw speed. Finding all of the correct checkpoints is more important than finding them quickly.
 
@@ -65,7 +65,7 @@ Developing a mental map is a very useful skill in understanding the spatial rela
 
 Spatial pattern identification is the cornerstone of understanding map orientation. The concept is very easy, although it might take a bit of prompting for them to make the connection. It is generally helpful to start out with something simple, but also unique, such as the layout of cones in the Geometric Animal-O.
 
-The important connection the students develop is the relationship between the layout of space and the layout of the map, specifically in how they match up. Starting with something simple like a pattern of cones to help establish this connection is an important intermediate step between understanding a basic map and a full-scale orienteering map. As the layout becomes more and more abstract \(like a real map\) it becomes more and more of a challenge to establish this connection. 
+The important connection the students develop is the relationship between the layout of space and the layout of the map, specifically in how they match up. Starting with something simple like a pattern of cones to help establish this connection is an important intermediate step between understanding a basic map and a full-scale orienteering map. As the layout becomes more and more abstract (like a real map) it becomes more and more of a challenge to establish this connection.&#x20;
 
 ## Orienting the map
 
@@ -77,19 +77,18 @@ This is one area where using Student Helpers can be tremendously useful. Student
 
 Navigation Games staff, including Barb Bryant, Cristina Luis, Ethan Childs and Adam Miller, wrote the orienteering content of the lessons. Cambridge Public School teachers Katelyn Greene and Thomas Materazzo provided the SHAPE America standards and feedback on the lesson plans.
 
-The orienteering lessons are based on curricula developed by Navigation Games in work from 2015 to 2019 with the Cambridge Community Schools JK-5 after-school classes \(led by Barb Bryant, Ethan Childs and Adam Miller\), and with JK-5 Physical Education classes at Cambridge Public Schools in the spring of 2018 \(led by Melanie Serguiev\). A previous four-lesson version was presented at the MAHPERD 2018 conference. 
+The orienteering lessons are based on curricula developed by Navigation Games in work from 2015 to 2019 with the Cambridge Community Schools JK-5 after-school classes (led by Barb Bryant, Ethan Childs and Adam Miller), and with JK-5 Physical Education classes at Cambridge Public Schools in the spring of 2018 (led by Melanie Serguiev). A previous four-lesson version was presented at the MAHPERD 2018 conference.&#x20;
 
-Cambridge Public School teachers Linda Fobes and Julia Bishop advised Navigation Games on lesson plan development and welcomed us into their classrooms. Navigation Games teachers who contributed to the lessons and approach include Evalin Brautigam, Marie Berzinova, Tomáš Kamaryt, Keegan Harkavy, David Landrigan, Priya Landrigan, Juan de Oliveira, Pavla Zdrahalova de Oliveira, Juan Manuel Merida Sanchis, Violeta Feliciano, Eugenio Trevisio, Geoff Pingree, Anaka Landrigan, Jason Tong, Sarah Gregorio, Mike Porter, Anna Swan, and Anna Lenihan. In the summers, interns and high school students \(most from the Cambridge, MA, Mayor's Summer Youth Employment Program\) taught Navigation Games classes at summer camps. Kristin Hall and Julia Bishop helped those students develop lesson plans for the summer programs. Our summer staff included Ethan Childs, Isak Prellner, Evalin Brautigam, Adam Miller, Melanie Sergiev, Maiken Sandberg, and Marina Carlson. Interns and students included Aidan O'Keefe, Chanpera Toeumhernandez, Colin Harmer, Connor Bresnahan, Ellen Jacobson, Emie Gerard, Ethan Hall, Ethan Rothenberg, Gabriel Nielsen-Nunez, Hersh Kanner, Jackson Codd, Jeffrey Chen, Julia Armand, Keegan Harkavy, Lincoln Craven-Brightman, Lucas Oliveira-Chace, Maggie Bayly, Nathaniel Saintfort, Peter Cannistaro, Peter Phan, Phineas DeSola, Sarah Hughes, Sam Peck, Shanti Söderström, Shayne Thorpe, Sophia Price, Theo Boehm, Vincent Chen, Walter Ditrani, Yasser Elfathy, and Zoe McNerney. 
+Cambridge Public School teachers Linda Fobes and Julia Bishop advised Navigation Games on lesson plan development and welcomed us into their classrooms. Navigation Games teachers who contributed to the lessons and approach include Evalin Brautigam, Marie Berzinova, Tomáš Kamaryt, Keegan Harkavy, David Landrigan, Priya Landrigan, Juan de Oliveira, Pavla Zdrahalova de Oliveira, Juan Manuel Merida Sanchis, Violeta Feliciano, Eugenio Trevisio, Geoff Pingree, Anaka Landrigan, Jason Tong, Sarah Gregorio, Mike Porter, Anna Swan, and Anna Lenihan. In the summers, interns and high school students (most from the Cambridge, MA, Mayor's Summer Youth Employment Program) taught Navigation Games classes at summer camps. Kristin Hall and Julia Bishop helped those students develop lesson plans for the summer programs. Our summer staff included Ethan Childs, Isak Prellner, Evalin Brautigam, Adam Miller, Melanie Sergiev, Maiken Sandberg, and Marina Carlson. Interns and students included Aidan O'Keefe, Chanpera Toeumhernandez, Colin Harmer, Connor Bresnahan, Ellen Jacobson, Emie Gerard, Ethan Hall, Ethan Rothenberg, Gabriel Nielsen-Nunez, Hersh Kanner, Jackson Codd, Jeffrey Chen, Julia Armand, Keegan Harkavy, Lincoln Craven-Brightman, Lucas Oliveira-Chace, Maggie Bayly, Nathaniel Saintfort, Peter Cannistaro, Peter Phan, Phineas DeSola, Sarah Hughes, Sam Peck, Shanti Söderström, Shayne Thorpe, Sophia Price, Theo Boehm, Vincent Chen, Walter Ditrani, Yasser Elfathy, and Zoe McNerney.&#x20;
 
-Erin Schirm \(Orienteering USA coach\) developed and shared with us orienteering lesson plans for middle school. The boundary run and game, as well as the gathering in response to a signal, were based on his first lesson plan. Erin’s approach of using games and emphasizing communication has been an inspiration.
+Erin Schirm (Orienteering USA coach) developed and shared with us orienteering lesson plans for middle school. The boundary run and game, as well as the gathering in response to a signal, were based on his first lesson plan. Erin’s approach of using games and emphasizing communication has been an inspiration.
 
 Andrea Schneider of Orienteering USA and David Yee of Navigation Games observed and reported to us the use of Animal Orienteering at a European orienteering event.
 
 ## Resources and References
 
-* Discovering Orienteering: Skills, Techniques and Activities by Ferguson and Turbyfill 
+* Discovering Orienteering: Skills, Techniques and Activities by Ferguson and Turbyfill&#x20;
 * OrienteeringUSA.org website
 * Orienteering and Map Games for Teachers by Mary E. Garrett
 * Lesson Plans - Orienteering from the Orienteering Service of Australia
 * Start Orienteering, a series of books aimed at different ages, by Carol McNeill and Tom Renfrew, published by Harvey
-

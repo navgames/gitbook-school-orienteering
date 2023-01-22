@@ -2,11 +2,11 @@
 description: Visit the objects in the sequence shown on your clue sheet
 ---
 
-# 3: Clue Sheet Orienteering
+# 2: Clue Sheet Orienteering
 
-[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vSg2J6F1fb_mSv351Nf_XgLt_oPwuyEVGxCbGUVosA7SWHfovAdnlBZkgzRgpMkEA/pub?start=false&loop=false&delayms=3000)
+[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vSg2J6F1fb\_mSv351Nf\_XgLt\_oPwuyEVGxCbGUVosA7SWHfovAdnlBZkgzRgpMkEA/pub?start=false\&loop=false\&delayms=3000)
 
-![](../.gitbook/assets/lesson-2--features-and-symbols-highres%20%281%29.png)
+![](<../.gitbook/assets/lesson-2--features-and-symbols-highres (2).png>)
 
 ### **Introduction**
 
@@ -37,10 +37,6 @@ Do not run with scissors. Remember when passing scissors to others to hold them 
 
 Pay attention when moving through the space so you don't hurt yourself or break anything.
 
-What are the rules for moving around in your space? Are you allowed to run? If not, then walk!
-
-Be careful to avoid objects and obstacles in the space. Agility is the ability to move quickly and easily, especially in a place where footing is uneven or there are obstacles. Be agile! Be nimble!
-
 ### Activity
 
 * **Set Up**
@@ -49,7 +45,7 @@ Be careful to avoid objects and obstacles in the space. Agility is the ability t
   * Create **clue sheets**. Cut a piece of paper into strips. Draw symbols in different orders on each strip. Each strip should include 1 of each **symbol**, although the order should be different for each one.
   * _Here are some example clue sheets_:
 
-![Six clue sheets, with five objects each](../.gitbook/assets/image%20%282%29.png)
+![Six clue sheets, with five objects each](<../.gitbook/assets/image (17).png>)
 
 * Game 1: **Clue Sheet Orienteering**
   * For each **clue sheet**, the objective is to visit the checkpoints in the order they appear on the sheet. Record your time for each course.
@@ -65,5 +61,8 @@ Be careful to avoid objects and obstacles in the space. Agility is the ability t
 ### Do More
 
 * Try moving around some of the objects between each round. How does the game grow more difficult as the number of objects moved increases?
-* This activity can be done outdoors by assigning symbols to tables, benches, trees, and other objects. 
-
+* **Symbol Clue Sheet Orienteering**
+  * First create a symbol for each of your objects, and Indicate which symbol matches each object. For example, a stuffed animal can be represented with a triangle, or a TV can be a square. This list of symbols is your key.
+  * Create **clue sheets** similar to the ones you used for Clue Sheet Orienteering, but this time use the symbols instead of images or words.
+  * Complete courses with the new **clue sheets** in the same manner as the Clue Sheet Orienteering game.
+* This activity can be done outdoors as well.

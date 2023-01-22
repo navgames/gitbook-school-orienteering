@@ -4,13 +4,13 @@ description: Hide and find objects
 
 # 1: Find Five and Clues
 
-[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe_69fhR2oOAE3xgFYCCRkHG_zBMooFgFRW416Da4RTRAM_17r6u2RjSfuMAXtcl5X_6V/pub?start=true&loop=false&delayms=5000&slide=id.p1)
+[Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe\_69fhR2oOAE3xgFYCCRkHG\_zBMooFgFRW416Da4RTRAM\_17r6u2RjSfuMAXtcl5X\_6V/pub?start=true\&loop=false\&delayms=5000\&slide=id.p1)
 
-![How to play &quot;Find Five&quot; and &quot;Clues&quot;](../.gitbook/assets/find-and-hide-highres-2.png)
+![How to play "Find Five" and "Clues"](<../.gitbook/assets/find-and-hide-highres (2).png>)
 
-[To view the comic strip as a slideshow, click here!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe_69fhR2oOAE3xgFYCCRkHG_zBMooFgFRW416Da4RTRAM_17r6u2RjSfuMAXtcl5X_6V/pub?start=true&loop=false&delayms=5000)
+[To view the comic strip as a slideshow, click here!](https://docs.google.com/presentation/d/e/2PACX-1vQT1O77fIcoe\_69fhR2oOAE3xgFYCCRkHG\_zBMooFgFRW416Da4RTRAM\_17r6u2RjSfuMAXtcl5X\_6V/pub?start=true\&loop=false\&delayms=5000)
 
-###  **Introduction** <a id="introduction"></a>
+### **** **Introduction** <a href="#introduction" id="introduction"></a>
 
 "Today we will play with a partner to find hidden objects using clues."
 
@@ -30,12 +30,12 @@ description: Hide and find objects
 
 ### Materials
 
-* Five objects for hiding: These may be as large as stuffed animals, as small as coins, or any combination. \(You should be able to carry all five objects at once, to make hiding them easier.\)
+* Five objects for hiding: These may be as large as stuffed animals, as small as coins, or any combination. (You should be able to carry all five objects at once, to make hiding them easier.)
 * A partner
 
 ### Safety
 
-Do not place objects in unsafe places.  
+Do not place objects in unsafe places. &#x20;
 
 Pay attention when moving through the space so you don't hurt yourself or break anything.
 
@@ -63,6 +63,4 @@ Pay attention when moving through the space so you don't hurt yourself or break 
 * **Find Five**: The **Course Setter** provides clues to the location of each object as the **Orienteer** is looking. For example, the **Course Setter** might say "warmer" or "colder" depending on whether the **Orienteer** is getting closer or farther from one of the objects.
 * **Clues**: The **Orienteer** must find the objects in the same order in which they were described by the **Course Setter**.
 * **Clues**: The **Course Setter** describes a location using words, and the **Orienteer** places an object in that location. The **Course Setter** confirms whether or not the location is correct.
-
-
 
