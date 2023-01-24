@@ -6,7 +6,7 @@ description: Use symbols to represent objects
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vRGqAXpYEl5zJTf-AdlMN41Xj8TmhBFZNFuua8ggYhrg-39EgZaqQZoRyhDlxP17w/pub?start=false\&loop=false\&delayms=3000)
 
-![How to play "Feature Tag" and "Tabletop-O"](<../.gitbook/assets/lesson-2--features-and-symbols-highres (1).png>)
+![How to play "Feature Tag" and "Tabletop-O"](<../../.gitbook/assets/lesson-2--features-and-symbols-highres (1).png>)
 
 [**Click here to see the comic strip as a slide show!**](https://docs.google.com/presentation/d/e/2PACX-1vTdj0BrOX8jyGrx1-3wFIkVTuPdjMQ1jFja-T\_9cwmFFsraFYQyOGbE\_lP3krdGhA/pub?start=false\&loop=false\&delayms=10000)****
 
@@ -57,7 +57,7 @@ Pay attention when moving through the space so you don't hurt yourself or break 
   * Switch roles and play again.
   * _Here is an example_:
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 * Game 3: **Tabletop Maps - Part II**
   * This game is similar to Part I, but played in reverse. One person arranges the objects on the table in any way. When finished, the other person draws a **map** on the paper using the **symbols** for each object.

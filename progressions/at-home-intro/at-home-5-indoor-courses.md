@@ -6,7 +6,7 @@ description: Keep your map oriented while you run a course
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vTn6C3J-dCwibEtSeZrKcGcIG6Ui\_6w1LmjptZ8uq52iU6kqHipxmobQ88tlRHXKlwLaay5yVBFIF5m/pub?start=false\&loop=false\&delayms=10000\&slide=id.p1)
 
-![](<../.gitbook/assets/lesson-5--indoor-courses-highres (1) (1).png>)
+![](<../../.gitbook/assets/lesson-5--indoor-courses-highres (1) (1).png>)
 
 ### Introduction
 

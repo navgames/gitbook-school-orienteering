@@ -1,6 +1,6 @@
 # Introduction: Elementary School O Lessons
 
-_If you are looking for the at-home orienteering lessons, suitable for use during the pandemic, please start_ [_here_](../at-home-orienteering-lessons/at-home-intro.md)_._
+_If you are looking for the at-home orienteering lessons, suitable for use during the pandemic, please start_ [_here_](../at-home-intro/)_._
 
 Orienteering is a running and navigation sport in which competitors travel through terrain to visit checkpoints marked on a map. Orienteering is great for kids because it develops their physical abilities (speed, agility), mental abilities (map navigation, critical thinking), and provides an opportunity for outdoor play. Our lesson plans also emphasize teamwork, roles (and responsibilities), helping each other learn, safety, and obtaining consent. Please see the section “About these lessons” for more background on our approach.&#x20;
 

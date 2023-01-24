@@ -6,7 +6,7 @@ description: Visit the objects in the sequence shown on your clue sheet
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vSg2J6F1fb\_mSv351Nf\_XgLt\_oPwuyEVGxCbGUVosA7SWHfovAdnlBZkgzRgpMkEA/pub?start=false\&loop=false\&delayms=3000)
 
-![](<../.gitbook/assets/lesson-2--features-and-symbols-highres (2).png>)
+![](<../../.gitbook/assets/lesson-2--features-and-symbols-highres (2).png>)
 
 ### **Introduction**
 
@@ -45,7 +45,7 @@ Pay attention when moving through the space so you don't hurt yourself or break 
   * Create **clue sheets**. Cut a piece of paper into strips. Draw symbols in different orders on each strip. Each strip should include 1 of each **symbol**, although the order should be different for each one.
   * _Here are some example clue sheets_:
 
-![Six clue sheets, with five objects each](<../.gitbook/assets/image (17).png>)
+![Six clue sheets, with five objects each](<../../.gitbook/assets/image (17).png>)
 
 * Game 1: **Clue Sheet Orienteering**
   * For each **clue sheet**, the objective is to visit the checkpoints in the order they appear on the sheet. Record your time for each course.

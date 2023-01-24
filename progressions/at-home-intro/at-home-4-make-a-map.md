@@ -6,7 +6,7 @@ description: Draw a map and mark the object locations
 
 [Click here to see the comic strip as a slideshow!](https://docs.google.com/presentation/d/e/2PACX-1vQEqGBoSF-sAH8hKZMkuwt9KO7IzVAiBWHzprQMySm-LGwJ9ZHrir4Eo5kBa2xylg/pub?start=false\&loop=false\&delayms=3000)
 
-![](<../.gitbook/assets/lesson-4--make-a-map-highres (3).png>)
+![](<../../.gitbook/assets/lesson-4--make-a-map-highres (3).png>)
 
 ### Introduction
 
